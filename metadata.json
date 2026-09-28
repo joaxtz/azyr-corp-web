@@ -1,0 +1,6 @@
+{
+  "name": "AZYR Group of Companies",
+  "description": "Bigger Vision. Stronger Together. Official corporate website for AZYR Group of Companies, highlighting global partnerships, customer & technical support services, online professional courses, and international leadership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
